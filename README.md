@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edet Joseph</h1>
-<h3 align="center">I am a Data Scientist Passionate, analytical, and results-oriented I combine strong technical skills and inquisitive thinking to unlock insights from data. Adept at both independent and collaborative work, I leverage a continuous learning mindset to adapt to evolving technologies and drive impactful solutions. Resourceful and metrics-driven, I am dedicated to optimizing processes and enhancing business performance through data-driven strategies.</h3>
+<h3 align="center">I am a Data Scientist Passionate, analytical, and results-oriented I combine strong technical skills and inquisitive thinking to unlock insights from data. Adept at both independent and collaborative work ⚙, I leverage a continuous learning mindset to adapt to evolving technologies and drive impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joedetds&label=Profile%20views&color=0e75b6&style=flat" alt="joedetds" /> </p>
 
