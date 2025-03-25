@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/edetutd" target="blank"><img src="https://img.shields.io/twitter/follow/edetutd?logo=twitter&style=for-the-badge" alt="edetutd" /></a> </p>
 
-- 🔭 I’m currently working on [xmas movies](https://github.com/joedetDS/xmas-movies-hackathon)
+- 🔭 I’m currently working on [BSCApeTracker](https://github.com/joedetDS/bsc_ape_tracker)
 
 - 🌱 I’m currently learning **django, SQL**
 
